@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1729772196.63277 "d:/swpu/algorithm-cultivation/handouts/lesson1/lesson1.tex" "lesson1.pdf" "lesson1" 1729772198.18258 0
+["pdflatex"] 1729780796.44869 "d:/swpu/algorithm-cultivation/handouts/lesson1/lesson1.tex" "lesson1.pdf" "lesson1" 1729780797.83759 0
   "c:/Windows/Fonts/msyh.ttc" 1689124928 19701556 07c864a5b15e68fa47639738197fae38 ""
   "c:/Windows/Fonts/simhei.ttf" 1651842600 9753388 6abc0fcfbaa40600f9cecca3afeb3aa7 ""
   "c:/Windows/Fonts/simsun.ttc" 1689124928 18008680 490583a172d4371a68d1e0526a6bca81 ""
@@ -173,11 +173,11 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1729330191 5421091 c5481d6a9573c61ed79fa119d87ba970 ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1729330368 6862212 c52ef68c0fb276458946173280984336 ""
   "c:/texlive/2024/texmf.cnf" 1729330163 713 e69b156964470283e0530f5060668171 ""
-  "d:/swpu/algorithm-cultivation/handouts/lesson1/lesson1.tex" 1729772195 2899 3e38e78fd52fea3cd9a87088bdfa6eff ""
-  "lesson1.aux" 1729772197 380 afaa94ac96924ebd390a422828716915 "pdflatex"
-  "lesson1.out" 1729772197 150 195d75bf30cbf2f9f47757953128236b "pdflatex"
-  "lesson1.tex" 1729772195 2899 3e38e78fd52fea3cd9a87088bdfa6eff ""
-  "lesson1.toc" 1729772197 136 30063f98ec5655b90099baaba9652c92 "pdflatex"
+  "d:/swpu/algorithm-cultivation/handouts/lesson1/lesson1.tex" 1729780795 2899 d642486717558d1b30f3e1ca6729c6b2 ""
+  "lesson1.aux" 1729780797 380 afaa94ac96924ebd390a422828716915 "pdflatex"
+  "lesson1.out" 1729780797 150 195d75bf30cbf2f9f47757953128236b "pdflatex"
+  "lesson1.tex" 1729780795 2899 d642486717558d1b30f3e1ca6729c6b2 ""
+  "lesson1.toc" 1729780797 136 30063f98ec5655b90099baaba9652c92 "pdflatex"
   (generated)
   "lesson1.aux"
   "lesson1.log"
