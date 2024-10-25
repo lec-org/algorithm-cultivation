@@ -34,68 +34,6 @@
 
 推荐阅读：[ACM 怎么样零基础到入门？ - geruome的回答 - 知乎](https://www.zhihu.com/question/26823471/answer/2423361138)
 
-## 时间复杂度
-衡量算法快慢的函数。大 O 记号表示上界。规定计算机进行一次基本运算（加减乘除模、swap、比较等）所用时间为一个小常数。
-
-+ 冒泡、选择排序：$O(n^2)$
-+ 快速、归并排序：$O(n\log n)$
-
-假设一个算法消耗时间的函数为
-$$
-\begin{equation}
-    T(n) = \left\{
-    \begin{aligned}
-    1 &\qquad (n = 1) \\
-    T\left(\dfrac{n}{2}\right) + 2n &\qquad (n > 1)
-    \end{aligned}
-    \right.
-\end{equation}
-$$
-
-展开可得 $T(n) = n + 2n \log_2 n$ .
-
-忽略掉常数项和低阶项，用大 O 记号表示为 $O(n\log n)$ .
-
-+ $O(n)$
-```cpp
-for (int i = 1; i <= n; ++i) {
-    x += 1;
-}
-```
-+ $O(n^2)$
-```cpp
-for (int i = 1; i <= n; ++i) {
-    for (int j = 1; j <= n; ++j) {
-        x += 1;
-    }
-}
-```
-+ $O(n^3)$
-```cpp
-string s[n + 1], t[n + 1];
-// s[i], t[i] 长度 <= n
-for (int i = 1; i <= n; ++i) {
-    for (int j = 1; j <= n; ++j) {
-        if (s[i] == t[j]) ++cnt;
-    }
-}
-```
-+ $O(\sqrt{n})$
-```cpp
-for (int i = 2; i * i <= n; ++i) {
-    if (n % i == 0) break;
-}
-```
-+ $O(n\log n)$
-```cpp
-for (int i = 1; i <= n; ++i) {
-    for (int j = 1; j * i <= n; ++j) {
-        x += 1;
-    }
-    // 调和级数
-}
-```
-
 ## 二分答案
 前期学习中的一个难点
 
