@@ -106,3 +106,11 @@ for (int i = 1; i <= n; ++i) {
 [例题： 2024 CCPC 山东邀请赛 A. Printer](https://codeforces.com/gym/105385/problem/A)
 
 细节：二分上下界，中间返回。
+
+## 位运算
+
+例题选讲
+1. [NIT orz!](https://codeforces.com/problemset/problem/1696/A)
+2. [Odd One Out](https://codeforces.com/problemset/problem/1915/A)
+3. [XOR Sequences](https://codeforces.com/problemset/problem/1979/B)
+4. [XOR Mixup](https://codeforces.com/problemset/problem/1698/A)
