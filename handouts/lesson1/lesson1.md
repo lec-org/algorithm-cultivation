@@ -104,13 +104,19 @@ for (int i = 1; i <= n; ++i) {
 + 及时return `check` 函数有时会避免一些可能的错误
 + 考虑边界问题
 
-
-
-[P3853 [TJOI2007\] 路标设置 - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/problem/P3853)
+[路标设置](https://www.luogu.com.cn/problem/P3853)
 
 [数字组合](https://ac.nowcoder.com/acm/problem/235260)
 
 ## 位运算
+常见应用
+
++ `a + b =  (a ^ b) + ((a & b) << 1)`
++ `a - b = a + (~b + 1)`
++ `lowbit(x) = x & (-x)`
++ `a ^ b == ~(a & b) & (a | b)`
++ 子集枚举：`for (int i = x; i; i = (i - 1) & x)`
++ 判断一个数是否形如 $2^n$：`x & (x - 1) == 0 ? 1 : 0`
 
 例题选讲
 1. [NIT orz!](https://codeforces.com/problemset/problem/1696/A)
