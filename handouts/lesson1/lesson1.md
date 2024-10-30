@@ -109,7 +109,7 @@ for (int i = 1; i <= n; ++i) {
 ## 位运算
 可以思考，不需要硬记
 
-![image-20241028222206323](C:\Users\86166\AppData\Roaming\Typora\typora-user-images\image-20241028222206323.png)
+![image-20241028222206323](./img1.png)
 
 ```cpp
 //判断一个数字是否是2的幂次
