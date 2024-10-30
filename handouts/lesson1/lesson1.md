@@ -1,11 +1,9 @@
 # lesson 1
 
 ## 学习方法
-对于没有计划参加算法竞赛的同学， acwing 算法基础课对企业笔试面试匹配得很好，可以直接参考学习。
-笔试之前到 leetcode 上刷题，基本可以满足需求。
+对于没有计划参加算法竞赛的同学， acwing 算法基础课对企业笔试面试匹配得很好，可以直接参考学习。笔试之前到 leetcode 上刷题，基本可以满足需求。
 
-对于有计划参加算法竞赛的同学，我觉得 acwing 算法基础课的安排是稍显不合理的。
-我个人推荐的入门学习顺序是：
+对于有计划参加算法竞赛的同学，我（刁总）觉得 acwing 算法基础课的安排是稍显不合理的。我个人推荐的入门学习顺序是：
 + 贪心
 + 二分查找、二分答案、三分
 + dfs、bfs 和 简单剪枝
@@ -20,10 +18,10 @@
 + 字符串哈希、kmp 和 trie 树
 
 关于学习方式，可以到 [洛谷](https://www.luogu.com.cn/) 找以【模板】开头的题目题解学习，然后做官方和用户分享的题单中的简单题。
+
 这部分一定不要花太多时间，争取在大一下学期之前结束。
 
-系统学习完上面的内容后，就可以开始到 [CodeForces](https://codeforces.com/) 上刷题了。可以在 problemset 中筛选题目难度，从 rating 1200 开始一道一道做。
-遇到不会的科技就根据题解中提到的关键字去找模板题学习。如果有时间也可以打打这上面的比赛，作为自己阶段学习成果的证明。
+系统学习完上面的内容后，就可以开始到 [CodeForces](https://codeforces.com/) 上刷题了。可以在 problemset 中筛选题目难度，从 rating 1200 开始一道一道做。遇到不会的科技根据题解中提到的关键字去找模板题学习。如果有时间也可以打打这上面的比赛，作为自己阶段学习成果的证明。
 
 [AtCoder](https://atcoder.jp/) 上的 Atcoder Beginner Contest 是很好的锻炼自己算法模板和常见套路的地方。这里面题通常比较简单，属于是学过了就肯定能做出来。
 
@@ -104,13 +102,61 @@ for (int i = 1; i <= n; ++i) {
 + 及时return `check` 函数有时会避免一些可能的错误
 + 考虑边界问题
 
-
-
-[P3853 [TJOI2007\] 路标设置 - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/problem/P3853)
+[路标设置](https://www.luogu.com.cn/problem/P3853)
 
 [数字组合](https://ac.nowcoder.com/acm/problem/235260)
 
 ## 位运算
+可以思考，不需要硬记
+
+![image-20241028222206323](C:\Users\86166\AppData\Roaming\Typora\typora-user-images\image-20241028222206323.png)
+
+```cpp
+//判断一个数字是否是2的幂次
+{
+    int x;
+    bool f = (x & (x - 1)) == 0;
+}
+
+//计算二进制有几个1
+{
+    int x, c = 0;
+    for(;x;c++){
+        x = x & (x - 1)
+    }
+}
+
+void swap(){
+    b ^= a;
+    a ^= b;
+    b ^= a;
+}
+
+//得到右边第一个1和后面的0构成的数
+int lowbit(int x){
+    return x & (-x);
+}
+
+//判断两数符号是否相同
+{
+    bool f = ((x ^ y) < 0);
+}
+
+{
+    if(x == y) ->  x ^ y == 0;
+    0 | x == x
+}
+
+a + b =  (a ^ b) + ((a & b) << 1)
+
+a - b = a + (~b + 1)
+
+a ^ b == ~(a & b) & (a | b)
+
+for (int i = x; i; i = (i - 1) & x) //子集枚举
+```
+
+
 
 例题选讲
 1. [NIT orz!](https://codeforces.com/problemset/problem/1696/A)
