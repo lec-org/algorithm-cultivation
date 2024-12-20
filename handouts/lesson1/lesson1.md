@@ -110,7 +110,7 @@ for (int i = 1; i <= n; ++i) {
 
 可以思考，不需要硬记
 
-![image-20241028222206323](./img1.png)
+![img1.png](https://s2.loli.net/2024/12/20/VBuSDUYc6HAJXpt.png)
 
 ```cpp
 //判断一个数字是否是2的幂次
