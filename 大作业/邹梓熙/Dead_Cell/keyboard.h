@@ -1,0 +1,13 @@
+#pragma once
+#define VK_A 0x41
+#define VK_D 0x44
+#define VK_J 0x4A
+#define VK_SHIFT 0x10
+#define VK_U 0x55
+#define VK_K 0x4B
+#define VK_I 0x49
+#define VK_O 0x4F
+#define VK_L 0x4C
+#define VK_W 0x57
+#define VK_S 0x53
+

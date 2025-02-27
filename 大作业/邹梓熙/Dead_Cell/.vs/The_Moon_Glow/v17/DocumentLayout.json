@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio Project\\Dead_Cell\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAA5F14-636B-4085-A889-DA77413D66F0}|Dead_Cell.vcxproj|D:\\Visual Studio Project\\Dead_Cell\\core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DAA5F14-636B-4085-A889-DA77413D66F0}|Dead_Cell.vcxproj|solutionrelative:core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAA5F14-636B-4085-A889-DA77413D66F0}|Dead_Cell.vcxproj|D:\\Visual Studio Project\\Dead_Cell\\putimage_alpha.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DAA5F14-636B-4085-A889-DA77413D66F0}|Dead_Cell.vcxproj|solutionrelative:putimage_alpha.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAA5F14-636B-4085-A889-DA77413D66F0}|Dead_Cell.vcxproj|D:\\Visual Studio Project\\Dead_Cell\\enemy_water.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DAA5F14-636B-4085-A889-DA77413D66F0}|Dead_Cell.vcxproj|solutionrelative:enemy_water.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAA5F14-636B-4085-A889-DA77413D66F0}|Dead_Cell.vcxproj|D:\\Visual Studio Project\\Dead_Cell\\enemy_water.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DAA5F14-636B-4085-A889-DA77413D66F0}|Dead_Cell.vcxproj|solutionrelative:enemy_water.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAA5F14-636B-4085-A889-DA77413D66F0}|Dead_Cell.vcxproj|D:\\Visual Studio Project\\Dead_Cell\\background.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DAA5F14-636B-4085-A889-DA77413D66F0}|Dead_Cell.vcxproj|solutionrelative:background.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAA5F14-636B-4085-A889-DA77413D66F0}|Dead_Cell.vcxproj|D:\\Visual Studio Project\\Dead_Cell\\background.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DAA5F14-636B-4085-A889-DA77413D66F0}|Dead_Cell.vcxproj|solutionrelative:background.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAA5F14-636B-4085-A889-DA77413D66F0}|Dead_Cell.vcxproj|D:\\Visual Studio Project\\Dead_Cell\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DAA5F14-636B-4085-A889-DA77413D66F0}|Dead_Cell.vcxproj|solutionrelative:player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAA5F14-636B-4085-A889-DA77413D66F0}|Dead_Cell.vcxproj|D:\\Visual Studio Project\\Dead_Cell\\bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DAA5F14-636B-4085-A889-DA77413D66F0}|Dead_Cell.vcxproj|solutionrelative:bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAA5F14-636B-4085-A889-DA77413D66F0}|Dead_Cell.vcxproj|D:\\Visual Studio Project\\Dead_Cell\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DAA5F14-636B-4085-A889-DA77413D66F0}|Dead_Cell.vcxproj|solutionrelative:player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAA5F14-636B-4085-A889-DA77413D66F0}|Dead_Cell.vcxproj|D:\\Visual Studio Project\\Dead_Cell\\enemy_base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DAA5F14-636B-4085-A889-DA77413D66F0}|Dead_Cell.vcxproj|solutionrelative:enemy_base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Visual Studio Project\\Dead_Cell\\player_base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:player_base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAA5F14-636B-4085-A889-DA77413D66F0}|Dead_Cell.vcxproj|D:\\Visual Studio Project\\Dead_Cell\\bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DAA5F14-636B-4085-A889-DA77413D66F0}|Dead_Cell.vcxproj|solutionrelative:bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "core.cpp",
+              "DocumentMoniker": "D:\\Visual Studio Project\\Dead_Cell\\core.cpp",
+              "RelativeDocumentMoniker": "core.cpp",
+              "ToolTip": "D:\\Visual Studio Project\\Dead_Cell\\core.cpp*",
+              "RelativeToolTip": "core.cpp*",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAAALkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-09T12:52:07.763Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bullet.h",
+              "DocumentMoniker": "D:\\Visual Studio Project\\Dead_Cell\\bullet.h",
+              "RelativeDocumentMoniker": "bullet.h",
+              "ToolTip": "D:\\Visual Studio Project\\Dead_Cell\\bullet.h",
+              "RelativeToolTip": "bullet.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-21T07:49:39.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bullet.cpp",
+              "DocumentMoniker": "D:\\Visual Studio Project\\Dead_Cell\\bullet.cpp",
+              "RelativeDocumentMoniker": "bullet.cpp",
+              "ToolTip": "D:\\Visual Studio Project\\Dead_Cell\\bullet.cpp",
+              "RelativeToolTip": "bullet.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T07:49:56.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "background.h",
+              "DocumentMoniker": "D:\\Visual Studio Project\\Dead_Cell\\background.h",
+              "RelativeDocumentMoniker": "background.h",
+              "ToolTip": "D:\\Visual Studio Project\\Dead_Cell\\background.h",
+              "RelativeToolTip": "background.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T09:04:40.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "background.cpp",
+              "DocumentMoniker": "D:\\Visual Studio Project\\Dead_Cell\\background.cpp",
+              "RelativeDocumentMoniker": "background.cpp",
+              "ToolTip": "D:\\Visual Studio Project\\Dead_Cell\\background.cpp",
+              "RelativeToolTip": "background.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T09:05:28.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "player.h",
+              "DocumentMoniker": "D:\\Visual Studio Project\\Dead_Cell\\player.h",
+              "RelativeDocumentMoniker": "player.h",
+              "ToolTip": "D:\\Visual Studio Project\\Dead_Cell\\player.h",
+              "RelativeToolTip": "player.h",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAD0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-18T00:56:27.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "player.cpp",
+              "DocumentMoniker": "D:\\Visual Studio Project\\Dead_Cell\\player.cpp",
+              "RelativeDocumentMoniker": "player.cpp",
+              "ToolTip": "D:\\Visual Studio Project\\Dead_Cell\\player.cpp",
+              "RelativeToolTip": "player.cpp",
+              "ViewState": "AgIAAC0BAAAAAAAAAAAAADcBAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-18T00:56:45.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "player_base.h",
+              "DocumentMoniker": "D:\\Visual Studio Project\\Dead_Cell\\player_base.h",
+              "RelativeDocumentMoniker": "player_base.h",
+              "ToolTip": "D:\\Visual Studio Project\\Dead_Cell\\player_base.h",
+              "RelativeToolTip": "player_base.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-31T07:27:37.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "enemy_base.h",
+              "DocumentMoniker": "D:\\Visual Studio Project\\Dead_Cell\\enemy_base.h",
+              "RelativeDocumentMoniker": "enemy_base.h",
+              "ToolTip": "D:\\Visual Studio Project\\Dead_Cell\\enemy_base.h",
+              "RelativeToolTip": "enemy_base.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-31T04:20:51.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "enemy_water.h",
+              "DocumentMoniker": "D:\\Visual Studio Project\\Dead_Cell\\enemy_water.h",
+              "RelativeDocumentMoniker": "enemy_water.h",
+              "ToolTip": "D:\\Visual Studio Project\\Dead_Cell\\enemy_water.h",
+              "RelativeToolTip": "enemy_water.h",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAH4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-31T04:21:09.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "enemy_water.cpp",
+              "DocumentMoniker": "D:\\Visual Studio Project\\Dead_Cell\\enemy_water.cpp",
+              "RelativeDocumentMoniker": "enemy_water.cpp",
+              "ToolTip": "D:\\Visual Studio Project\\Dead_Cell\\enemy_water.cpp",
+              "RelativeToolTip": "enemy_water.cpp",
+              "ViewState": "AgIAAIIBAAAAAAAAAAAAAIEBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-31T04:21:44.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "putimage_alpha.h",
+              "DocumentMoniker": "D:\\Visual Studio Project\\Dead_Cell\\putimage_alpha.h",
+              "RelativeDocumentMoniker": "putimage_alpha.h",
+              "ToolTip": "D:\\Visual Studio Project\\Dead_Cell\\putimage_alpha.h",
+              "RelativeToolTip": "putimage_alpha.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-23T12:23:36.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
