@@ -1,0 +1,6 @@
+﻿  core.cpp
+D:\Visual Studio Project\Dead_Cell\core.cpp(171,28): warning C4244: “=”: 从“ULONGLONG”转换到“unsigned long”，可能丢失数据
+D:\Visual Studio Project\Dead_Cell\core.cpp(182,30): warning C4244: “=”: 从“ULONGLONG”转换到“unsigned long”，可能丢失数据
+D:\Visual Studio Project\Dead_Cell\core.cpp(749,28): warning C4244: “=”: 从“ULONGLONG”转换到“unsigned long”，可能丢失数据
+D:\Visual Studio Project\Dead_Cell\core.cpp(760,30): warning C4244: “=”: 从“ULONGLONG”转换到“unsigned long”，可能丢失数据
+  Dead_Cell.vcxproj -> D:\Visual Studio Project\Dead_Cell\x64\Debug\The_Moon_Glow.exe
