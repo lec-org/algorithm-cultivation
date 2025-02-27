@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\玩家类">
+      <UniqueIdentifier>{62f7b64a-f1bd-47b8-bc06-a440dbdcb2a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\子弹类">
+      <UniqueIdentifier>{a3ba6407-367a-4fdf-8cc5-fa2bf9640301}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\场景类">
+      <UniqueIdentifier>{31bd10bf-5a91-497b-a782-2e8f9356fecd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\工具类">
+      <UniqueIdentifier>{16257d54-1f45-433a-a350-6ce479f08df1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\玩家">
+      <UniqueIdentifier>{84e4c417-33e8-40a3-b808-60ebf20907f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\场景">
+      <UniqueIdentifier>{4baba56a-a8ab-495c-bae0-11c84fbc408c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\工具">
+      <UniqueIdentifier>{33ad4236-a5fd-4b77-b22a-0e4be5c9f1d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\子弹">
+      <UniqueIdentifier>{b9872992-20b7-431d-ae98-f055b2bdd94a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="animation.cpp">
+      <Filter>源文件\工具</Filter>
+    </ClCompile>
+    <ClCompile Include="atlas.cpp">
+      <Filter>源文件\工具</Filter>
+    </ClCompile>
+    <ClCompile Include="bullet.cpp">
+      <Filter>源文件\子弹</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.cpp">
+      <Filter>源文件\工具</Filter>
+    </ClCompile>
+    <ClCompile Include="gameScene.cpp">
+      <Filter>源文件\场景</Filter>
+    </ClCompile>
+    <ClCompile Include="menuScene.cpp">
+      <Filter>源文件\场景</Filter>
+    </ClCompile>
+    <ClCompile Include="particle.cpp">
+      <Filter>源文件\工具</Filter>
+    </ClCompile>
+    <ClCompile Include="peaBullet.cpp">
+      <Filter>源文件\子弹</Filter>
+    </ClCompile>
+    <ClCompile Include="peaShooterPlayer.cpp">
+      <Filter>源文件\玩家</Filter>
+    </ClCompile>
+    <ClCompile Include="platform.cpp">
+      <Filter>源文件\场景</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>源文件\玩家</Filter>
+    </ClCompile>
+    <ClCompile Include="scene.cpp">
+      <Filter>源文件\场景</Filter>
+    </ClCompile>
+    <ClCompile Include="sceneManager.cpp">
+      <Filter>源文件\场景</Filter>
+    </ClCompile>
+    <ClCompile Include="selectorScene.cpp">
+      <Filter>源文件\场景</Filter>
+    </ClCompile>
+    <ClCompile Include="statusBar.cpp">
+      <Filter>源文件\场景</Filter>
+    </ClCompile>
+    <ClCompile Include="sunBullet.cpp">
+      <Filter>源文件\子弹</Filter>
+    </ClCompile>
+    <ClCompile Include="sunBulletEx.cpp">
+      <Filter>源文件\子弹</Filter>
+    </ClCompile>
+    <ClCompile Include="sunFlowerPlayer.cpp">
+      <Filter>源文件\玩家</Filter>
+    </ClCompile>
+    <ClCompile Include="timer.cpp">
+      <Filter>源文件\工具</Filter>
+    </ClCompile>
+    <ClCompile Include="util.cpp">
+      <Filter>源文件\工具</Filter>
+    </ClCompile>
+    <ClCompile Include="vector2.cpp">
+      <Filter>源文件\工具</Filter>
+    </ClCompile>
+    <ClCompile Include="transexbullet.cpp">
+      <Filter>源文件\子弹</Filter>
+    </ClCompile>
+    <ClCompile Include="trans.cpp">
+      <Filter>源文件\子弹</Filter>
+    </ClCompile>
+    <ClCompile Include="newPlayer.cpp">
+      <Filter>源文件\玩家</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="player.h">
+      <Filter>头文件\玩家类</Filter>
+    </ClInclude>
+    <ClInclude Include="sunFlowerPlayer.h">
+      <Filter>头文件\玩家类</Filter>
+    </ClInclude>
+    <ClInclude Include="newPlayer.h">
+      <Filter>头文件\玩家类</Filter>
+    </ClInclude>
+    <ClInclude Include="peaShooterPlayer.h">
+      <Filter>头文件\玩家类</Filter>
+    </ClInclude>
+    <ClInclude Include="bullet.h">
+      <Filter>头文件\子弹类</Filter>
+    </ClInclude>
+    <ClInclude Include="sunBullet.h">
+      <Filter>头文件\子弹类</Filter>
+    </ClInclude>
+    <ClInclude Include="sunBulletEx.h">
+      <Filter>头文件\子弹类</Filter>
+    </ClInclude>
+    <ClInclude Include="peaBullet.h">
+      <Filter>头文件\子弹类</Filter>
+    </ClInclude>
+    <ClInclude Include="gameScene.h">
+      <Filter>头文件\场景类</Filter>
+    </ClInclude>
+    <ClInclude Include="menuScene.h">
+      <Filter>头文件\场景类</Filter>
+    </ClInclude>
+    <ClInclude Include="scene.h">
+      <Filter>头文件\场景类</Filter>
+    </ClInclude>
+    <ClInclude Include="sceneManager.h">
+      <Filter>头文件\场景类</Filter>
+    </ClInclude>
+    <ClInclude Include="selectorScene.h">
+      <Filter>头文件\场景类</Filter>
+    </ClInclude>
+    <ClInclude Include="statusBar.h">
+      <Filter>头文件\场景类</Filter>
+    </ClInclude>
+    <ClInclude Include="platform.h">
+      <Filter>头文件\场景类</Filter>
+    </ClInclude>
+    <ClInclude Include="playerID.h">
+      <Filter>头文件\玩家类</Filter>
+    </ClInclude>
+    <ClInclude Include="animation.h">
+      <Filter>头文件\工具类</Filter>
+    </ClInclude>
+    <ClInclude Include="atlas.h">
+      <Filter>头文件\工具类</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>头文件\工具类</Filter>
+    </ClInclude>
+    <ClInclude Include="particle.h">
+      <Filter>头文件\工具类</Filter>
+    </ClInclude>
+    <ClInclude Include="timer.h">
+      <Filter>头文件\工具类</Filter>
+    </ClInclude>
+    <ClInclude Include="util.h">
+      <Filter>头文件\工具类</Filter>
+    </ClInclude>
+    <ClInclude Include="vector2.h">
+      <Filter>头文件\工具类</Filter>
+    </ClInclude>
+    <ClInclude Include="transexbullet.h">
+      <Filter>头文件\子弹类</Filter>
+    </ClInclude>
+    <ClInclude Include="trans.h">
+      <Filter>头文件\子弹类</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
