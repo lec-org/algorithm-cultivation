@@ -1,0 +1,18 @@
+﻿  main.cpp
+E:\vus code\mymain\texture.h(3,23): error C2065: “texture”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+E:\vus code\mymain\texture.h(4,34): error C2065: “texture”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+E:\vus code\mymain\texture.h(29,34): error C2065: “texture”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+E:\vus code\mymain\main.cpp(17,9): warning C4005: “WIDTH”: 宏重定义
+      E:\vus code\mymain\milk_way.h(10,9):
+      参见“WIDTH”的前一个定义
+  
+E:\vus code\mymain\main.cpp(18,9): warning C4005: “HEIGHT”: 宏重定义
+      E:\vus code\mymain\milk_way.h(11,9):
+      参见“HEIGHT”的前一个定义
+  

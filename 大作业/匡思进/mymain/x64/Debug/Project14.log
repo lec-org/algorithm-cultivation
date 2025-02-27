@@ -1,0 +1,56 @@
+﻿  main.cpp
+E:\vus code\mymain\vec3.h(4,9): warning C4005: “M_PI”: 宏重定义
+  (编译源文件“main.cpp”)
+      E:\vus code\mymain\packages\sdl2.nuget.2.30.9\build\native\include\SDL_stdinc.h(623,9):
+      参见“M_PI”的前一个定义
+  
+E:\vus code\mymain\drawsun.h(12,29): warning C4305: “初始化”: 从“double”到“const float”截断
+  (编译源文件“main.cpp”)
+  
+E:\vus code\mymain\drawsun.h(12,34): warning C4305: “初始化”: 从“double”到“const float”截断
+  (编译源文件“main.cpp”)
+  
+E:\vus code\mymain\drawsun.h(12,39): warning C4305: “初始化”: 从“double”到“const float”截断
+  (编译源文件“main.cpp”)
+  
+E:\vus code\mymain\drawsun.h(13,35): warning C4305: “初始化”: 从“double”到“const float”截断
+  (编译源文件“main.cpp”)
+  
+E:\vus code\mymain\drawsun.h(13,40): warning C4305: “初始化”: 从“double”到“const float”截断
+  (编译源文件“main.cpp”)
+  
+E:\vus code\mymain\drawsun.h(15,15): warning C4305: “初始化”: 从“double”到“const float”截断
+  (编译源文件“main.cpp”)
+  
+E:\vus code\mymain\drawsun.h(16,15): warning C4305: “初始化”: 从“double”到“const float”截断
+  (编译源文件“main.cpp”)
+  
+E:\vus code\mymain\drawsun.h(17,15): warning C4305: “初始化”: 从“double”到“const float”截断
+  (编译源文件“main.cpp”)
+  
+E:\vus code\mymain\drawsun.h(30,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\vus code\mymain\drawsun.h(58,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\vus code\mymain\drawsun.h(59,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\vus code\mymain\drawsun.h(61,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\vus code\mymain\drawsun.h(132,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\vus code\mymain\drawsun.h(133,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\vus code\mymain\drawsun.h(141,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\vus code\mymain\main.cpp(224,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\vus code\mymain\main.cpp(630,32): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\vus code\mymain\main.cpp(631,32): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\vus code\mymain\main.cpp(910,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Project14.vcxproj -> E:\vus code\mymain\x64\Debug\mymain.exe
