@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="15.0">
+  <ItemGroup>
+    <SOIL2Libs Include="$(MSBuildThisFileDirectory)lib\$(Platform)\$(Configuration)\*.lib" />
+    <SOIL2Incl Include="$(MSBuildThisFileDirectory)include" />
+  </ItemGroup>
+  <PropertyGroup>
+    <!-- Expland the items to a property -->
+    <SOIL2Libraries>@(SOIL2Libs)</SOIL2Libraries>
+    <SOIL2Includes>@(SOIL2Incl)</SOIL2Includes>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(SOIL2Includes);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>$(SOIL2Libraries);%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+</Project>
