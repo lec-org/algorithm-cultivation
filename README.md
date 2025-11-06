@@ -1,2 +1,2 @@
 # algorithm-cultivation
-24级培训
+算法培训
